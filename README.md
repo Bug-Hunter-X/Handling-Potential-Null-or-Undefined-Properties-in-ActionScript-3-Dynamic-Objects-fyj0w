@@ -1,0 +1,1 @@
+This example demonstrates a common error in ActionScript 3 when dealing with dynamic objects.  The code attempts to access the 'userName' property of a dynamic object, but this property might not always be present, leading to a runtime error.  The solution showcases a safe way to access the property, using a null check or the 'hasOwnProperty' method.
